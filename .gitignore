@@ -104,6 +104,8 @@ celerybeat.pid
 # Environments
 .env
 .venv
+.vscode
+scripts/
 env/
 venv/
 ENV/
@@ -119,6 +121,7 @@ venv.bak/
 
 # mkdocs documentation
 /site
+color_detection/pyvenv.cfg
 
 # mypy
 .mypy_cache/
